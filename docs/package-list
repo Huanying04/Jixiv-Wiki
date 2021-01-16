@@ -1,6 +1,7 @@
 net.nekomura.utils.jixiv
-net.nekomura.utils.jixiv.Enums.artwork
-net.nekomura.utils.jixiv.Enums.bookmark
-net.nekomura.utils.jixiv.Enums.rank
-net.nekomura.utils.jixiv.Enums.search
-net.nekomura.utils.jixiv.Utils
+net.nekomura.utils.jixiv.enums.artwork
+net.nekomura.utils.jixiv.enums.bookmark
+net.nekomura.utils.jixiv.enums.rank
+net.nekomura.utils.jixiv.enums.search
+net.nekomura.utils.jixiv.exception
+net.nekomura.utils.jixiv.utils
